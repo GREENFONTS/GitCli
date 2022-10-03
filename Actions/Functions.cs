@@ -5,12 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 using Octokit;
 using System.Net.Http;
+using GitCli.Services;
 
 namespace GitCli.Actions
 {
     public class Functions : funcInterfaces
     {
-        private readonly Services.GithubActions actionService;
+        private readonly GithubActions actionService;
         public Functions(GitHubClient client)
         {
             actionService = new Services.GithubActions(client);
