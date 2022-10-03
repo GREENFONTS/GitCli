@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "n2mBzsRQcE6C1UzjSKm6tDEed0U7rCLQXO8TjwI4IjAawZdorduBV6Eb4PnlYDj+MaSgYJVHCZtgYUzYWtgiDQ==",
+  "dgSpecHash": "3+b2Q4Hjr3qrGK646bZLJcaAJGZ/HV30SnZQNx7rbwnnBZPSmkRqpU3XWOd67Z3t46XX5eLoYQRfPwaFQccnNQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Godwill Onyewuchi\\source\\repos\\GitCli\\GitCli.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Godwill Onyewuchi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Godwill Onyewuchi\\.nuget\\packages\\octokit\\3.0.0\\octokit.3.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
